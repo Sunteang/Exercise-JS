@@ -14,6 +14,8 @@
 // console.log(factorial(4));
 // console.log(factorial(2));
 // console.log(factorial(-2));
+
+// Another way to find factorial:
 function factorial(n) {
   let result = 1;
   for (let i = 1; i <= n; i++) {
